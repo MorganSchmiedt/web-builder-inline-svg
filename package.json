@@ -1,0 +1,19 @@
+{
+  "name": "@deskeen/web-builder-inline-svg",
+  "version": "0.1.0",
+  "description": "Web Builder Module - Inline SVG files",
+  "author": "Morgan Schmiedt",
+  "license": "MIT",
+  "repository": "https://github.com/deskeen/web-builder-inline-svg",
+  "keywords": [
+    "build",
+    "website",
+    "node.js",
+    "inline",
+    "svg"
+  ],
+  "main": "src/module.js",
+  "dependencies": {
+    "svgo": "^1.3.2"
+  }
+}
